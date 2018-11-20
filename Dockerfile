@@ -1,4 +1,4 @@
-FROM alpine/git
+FROM alpine/git:1.0.4
 
 LABEL maintainer="tkqubo <tk.qubo@gmail.com>"
 LABEL description="An alpine/git extension that knows a given host."
